@@ -1,2 +1,5 @@
 system design
 	- https://akshay-iyangar.github.io/system-design/
+
+LeetCode method
+	- https://github.com/youngyangyang04/leetcode-master
