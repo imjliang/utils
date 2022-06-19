@@ -3,3 +3,6 @@ system design
 
 LeetCode method
 	- https://github.com/youngyangyang04/leetcode-master
+
+百度网盘不限速下载方法（教程）
+	- https://bbs.oldmanemu.net/thread-18902.htm
